@@ -1,0 +1,1919 @@
+[
+    {
+        "no": 184,
+        "code": "U+1F9E0",
+        "char": "🧠",
+        "desc": "brain",
+        "filename": "brain.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/brain.png",
+        "paligemma_label": "brain"
+    },
+    {
+        "no": 293,
+        "code": "U+1F930",
+        "char": "🤰",
+        "desc": "pregnant woman",
+        "filename": "pregnant woman.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/pregnant woman.png",
+        "paligemma_label": "pregnant woman"
+    },
+    {
+        "no": 437,
+        "code": "U+1F463",
+        "char": "👣",
+        "desc": "footprints",
+        "filename": "footprints.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/footprints.png",
+        "paligemma_label": "footprints"
+    },
+    {
+        "no": 444,
+        "code": "U+1F98D",
+        "char": "🦍",
+        "desc": "gorilla",
+        "filename": "gorilla.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/gorilla.png",
+        "paligemma_label": "gorilla"
+    },
+    {
+        "no": 456,
+        "code": "U+1F406",
+        "char": "🐆",
+        "desc": "leopard",
+        "filename": "leopard.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/leopard.png",
+        "paligemma_label": "leopard"
+    },
+    {
+        "no": 459,
+        "code": "U+1F984",
+        "char": "🦄",
+        "desc": "unicorn",
+        "filename": "unicorn.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/unicorn.png",
+        "paligemma_label": "unicorn"
+    },
+    {
+        "no": 479,
+        "code": "U+1F99B",
+        "char": "🦛",
+        "desc": "hippopotamus",
+        "filename": "hippopotamus.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/hippopotamus.png",
+        "paligemma_label": "hippo"
+    },
+    {
+        "no": 483,
+        "code": "U+1F439",
+        "char": "🐹",
+        "desc": "hamster",
+        "filename": "hamster.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/hamster.png",
+        "paligemma_label": "hamster"
+    },
+    {
+        "no": 486,
+        "code": "U+1F43F",
+        "char": "🐿",
+        "desc": "chipmunk",
+        "filename": "chipmunk.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/chipmunk.png",
+        "paligemma_label": "squirrel"
+    },
+    {
+        "no": 493,
+        "code": "U+1F9A1",
+        "char": "🦡",
+        "desc": "badger",
+        "filename": "badger.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/badger.png",
+        "paligemma_label": "badger"
+    },
+    {
+        "no": 494,
+        "code": "U+1F43E",
+        "char": "🐾",
+        "desc": "paw prints",
+        "filename": "paw prints.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/paw prints.png",
+        "paligemma_label": "paw prints"
+    },
+    {
+        "no": 496,
+        "code": "U+1F414",
+        "char": "🐔",
+        "desc": "chicken",
+        "filename": "chicken.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/chicken.png",
+        "paligemma_label": "rooster"
+    },
+    {
+        "no": 498,
+        "code": "U+1F423",
+        "char": "🐣",
+        "desc": "hatching chick",
+        "filename": "hatching chick.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/hatching chick.png",
+        "paligemma_label": "hatching chicken"
+    },
+    {
+        "no": 509,
+        "code": "U+1F99C",
+        "char": "🦜",
+        "desc": "parrot",
+        "filename": "parrot.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/parrot.png",
+        "paligemma_label": "parrot"
+    },
+    {
+        "no": 510,
+        "code": "U+1F438",
+        "char": "🐸",
+        "desc": "frog",
+        "filename": "frog.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/frog.png",
+        "paligemma_label": "frog"
+    },
+    {
+        "no": 511,
+        "code": "U+1F40A",
+        "char": "🐊",
+        "desc": "crocodile",
+        "filename": "crocodile.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/crocodile.png",
+        "paligemma_label": "alligator"
+    },
+    {
+        "no": 513,
+        "code": "U+1F98E",
+        "char": "🦎",
+        "desc": "lizard",
+        "filename": "lizard.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/lizard.png",
+        "paligemma_label": "lizard"
+    },
+    {
+        "no": 515,
+        "code": "U+1F432",
+        "char": "🐲",
+        "desc": "dragon face",
+        "filename": "dragon face.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/dragon face.png",
+        "paligemma_label": "dragon"
+    },
+    {
+        "no": 521,
+        "code": "U+1F42C",
+        "char": "🐬",
+        "desc": "dolphin",
+        "filename": "dolphin.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/dolphin.png",
+        "paligemma_label": "dolphin"
+    },
+    {
+        "no": 527,
+        "code": "U+1F41A",
+        "char": "🐚",
+        "desc": "spiral shell",
+        "filename": "spiral shell.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/spiral shell.png",
+        "paligemma_label": "shell"
+    },
+    {
+        "no": 528,
+        "code": "U+1F40C",
+        "char": "🐌",
+        "desc": "snail",
+        "filename": "snail.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/snail.png",
+        "paligemma_label": "snail"
+    },
+    {
+        "no": 534,
+        "code": "U+1F997",
+        "char": "🦗",
+        "desc": "cricket",
+        "filename": "cricket.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/cricket.png",
+        "paligemma_label": "cricket"
+    },
+    {
+        "no": 535,
+        "code": "U+1F577",
+        "char": "🕷",
+        "desc": "spider",
+        "filename": "spider.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/spider.png",
+        "paligemma_label": "spider"
+    },
+    {
+        "no": 536,
+        "code": "U+1F578",
+        "char": "🕸",
+        "desc": "spider web",
+        "filename": "spider web.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/spider web.png",
+        "paligemma_label": "spider web"
+    },
+    {
+        "no": 538,
+        "code": "U+1F99F",
+        "char": "🦟",
+        "desc": "mosquito",
+        "filename": "mosquito.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/mosquito.png",
+        "paligemma_label": "mosquito"
+    },
+    {
+        "no": 539,
+        "code": "U+1F9A0",
+        "char": "🦠",
+        "desc": "microbe",
+        "filename": "microbe.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/microbe.png",
+        "paligemma_label": "virus"
+    },
+    {
+        "no": 540,
+        "code": "U+1F490",
+        "char": "💐",
+        "desc": "bouquet",
+        "filename": "bouquet.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/bouquet.png",
+        "paligemma_label": "bouquet"
+    },
+    {
+        "no": 563,
+        "code": "U+1F348",
+        "char": "🍈",
+        "desc": "melon",
+        "filename": "melon.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/melon.png",
+        "paligemma_label": "melon"
+    },
+    {
+        "no": 566,
+        "code": "U+1F34B",
+        "char": "🍋",
+        "desc": "lemon",
+        "filename": "lemon.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/lemon.png",
+        "paligemma_label": "lemon"
+    },
+    {
+        "no": 567,
+        "code": "U+1F34C",
+        "char": "🍌",
+        "desc": "banana",
+        "filename": "banana.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/banana.png",
+        "paligemma_label": "banana"
+    },
+    {
+        "no": 574,
+        "code": "U+1F352",
+        "char": "🍒",
+        "desc": "cherries",
+        "filename": "cherries.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/cherries.png",
+        "paligemma_label": "cherry"
+    },
+    {
+        "no": 579,
+        "code": "U+1F951",
+        "char": "🥑",
+        "desc": "avocado",
+        "filename": "avocado.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/avocado.png",
+        "paligemma_label": "avocado"
+    },
+    {
+        "no": 590,
+        "code": "U+1F330",
+        "char": "🌰",
+        "desc": "chestnut",
+        "filename": "chestnut.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/chestnut.png",
+        "paligemma_label": "nut"
+    },
+    {
+        "no": 592,
+        "code": "U+1F950",
+        "char": "🥐",
+        "desc": "croissant",
+        "filename": "croissant.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/croissant.png",
+        "paligemma_label": "croissant"
+    },
+    {
+        "no": 593,
+        "code": "U+1F956",
+        "char": "🥖",
+        "desc": "baguette bread",
+        "filename": "baguette bread.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/baguette bread.png",
+        "paligemma_label": "bread"
+    },
+    {
+        "no": 594,
+        "code": "U+1F968",
+        "char": "🥨",
+        "desc": "pretzel",
+        "filename": "pretzel.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/pretzel.png",
+        "paligemma_label": "pretzel"
+    },
+    {
+        "no": 595,
+        "code": "U+1F96F",
+        "char": "🥯",
+        "desc": "bagel",
+        "filename": "bagel.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/bagel.png",
+        "paligemma_label": "bagel"
+    },
+    {
+        "no": 619,
+        "code": "U+1F371",
+        "char": "🍱",
+        "desc": "bento box",
+        "filename": "bento box.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/bento box.png",
+        "paligemma_label": "lunch box"
+    },
+    {
+        "no": 637,
+        "code": "U+1F99E",
+        "char": "🦞",
+        "desc": "lobster",
+        "filename": "lobster.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/lobster.png",
+        "paligemma_label": "lobster"
+    },
+    {
+        "no": 639,
+        "code": "U+1F991",
+        "char": "🦑",
+        "desc": "squid",
+        "filename": "squid.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/squid.png",
+        "paligemma_label": "squid"
+    },
+    {
+        "no": 643,
+        "code": "U+1F369",
+        "char": "🍩",
+        "desc": "doughnut",
+        "filename": "doughnut.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/doughnut.png",
+        "paligemma_label": "donut"
+    },
+    {
+        "no": 645,
+        "code": "U+1F382",
+        "char": "🎂",
+        "desc": "birthday cake",
+        "filename": "birthday cake.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/birthday cake.png",
+        "paligemma_label": "birthday cake"
+    },
+    {
+        "no": 673,
+        "code": "U+1F3FA",
+        "char": "🏺",
+        "desc": "amphora",
+        "filename": "amphora.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/amphora.png",
+        "paligemma_label": "vase"
+    },
+    {
+        "no": 680,
+        "code": "U+1F9ED",
+        "char": "🧭",
+        "desc": "compass",
+        "filename": "compass.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/compass.png",
+        "paligemma_label": "compass"
+    },
+    {
+        "no": 688,
+        "code": "U+1F3DD",
+        "char": "🏝",
+        "desc": "desert island",
+        "filename": "desert island.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/desert island.png",
+        "paligemma_label": "island"
+    },
+    {
+        "no": 690,
+        "code": "U+1F3DF",
+        "char": "🏟",
+        "desc": "stadium",
+        "filename": "stadium.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/stadium.png",
+        "paligemma_label": "stadium"
+    },
+    {
+        "no": 692,
+        "code": "U+1F3D7",
+        "char": "🏗",
+        "desc": "building construction",
+        "filename": "building construction.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/building construction.png",
+        "paligemma_label": "crane"
+    },
+    {
+        "no": 702,
+        "code": "U+1F3E6",
+        "char": "🏦",
+        "desc": "bank",
+        "filename": "bank.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/bank.png",
+        "paligemma_label": "bank"
+    },
+    {
+        "no": 705,
+        "code": "U+1F3EA",
+        "char": "🏪",
+        "desc": "convenience store",
+        "filename": "convenience store.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/convenience store.png",
+        "paligemma_label": "store"
+    },
+    {
+        "no": 708,
+        "code": "U+1F3ED",
+        "char": "🏭",
+        "desc": "factory",
+        "filename": "factory.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/factory.png",
+        "paligemma_label": "factory"
+    },
+    {
+        "no": 710,
+        "code": "U+1F3F0",
+        "char": "🏰",
+        "desc": "castle",
+        "filename": "castle.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/castle.png",
+        "paligemma_label": "castle"
+    },
+    {
+        "no": 712,
+        "code": "U+1F5FC",
+        "char": "🗼",
+        "desc": "Tokyo tower",
+        "filename": "Tokyo tower.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/Tokyo tower.png",
+        "paligemma_label": "tower"
+    },
+    {
+        "no": 724,
+        "code": "U+1F304",
+        "char": "🌄",
+        "desc": "sunrise over mountains",
+        "filename": "sunrise over mountains.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/sunrise over mountains.png",
+        "paligemma_label": "sunrise"
+    },
+    {
+        "no": 725,
+        "code": "U+1F305",
+        "char": "🌅",
+        "desc": "sunrise",
+        "filename": "sunrise.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/sunrise.png",
+        "paligemma_label": "sunset"
+    },
+    {
+        "no": 726,
+        "code": "U+1F306",
+        "char": "🌆",
+        "desc": "cityscape at dusk",
+        "filename": "cityscape at dusk.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/cityscape at dusk.png",
+        "paligemma_label": "cityscape"
+    },
+    {
+        "no": 773,
+        "code": "U+1F6E2",
+        "char": "🛢",
+        "desc": "oil drum",
+        "filename": "oil drum.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/oil drum.png",
+        "paligemma_label": "barrel"
+    },
+    {
+        "no": 774,
+        "code": "U+26FD",
+        "char": "⛽",
+        "desc": "fuel pump",
+        "filename": "fuel pump.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/fuel pump.png",
+        "paligemma_label": "gas pump"
+    },
+    {
+        "no": 775,
+        "code": "U+1F6A8",
+        "char": "🚨",
+        "desc": "police car light",
+        "filename": "police car light.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/police car light.png",
+        "paligemma_label": "light"
+    },
+    {
+        "no": 779,
+        "code": "U+1F6A7",
+        "char": "🚧",
+        "desc": "construction",
+        "filename": "construction.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/construction.png",
+        "paligemma_label": "barrier"
+    },
+    {
+        "no": 780,
+        "code": "U+2693",
+        "char": "⚓",
+        "desc": "anchor",
+        "filename": "anchor.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/anchor.png",
+        "paligemma_label": "anchor"
+    },
+    {
+        "no": 781,
+        "code": "U+26F5",
+        "char": "⛵",
+        "desc": "sailboat",
+        "filename": "sailboat.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/sailboat.png",
+        "paligemma_label": "sailboat"
+    },
+    {
+        "no": 782,
+        "code": "U+1F6F6",
+        "char": "🛶",
+        "desc": "canoe",
+        "filename": "canoe.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/canoe.png",
+        "paligemma_label": "canoe"
+    },
+    {
+        "no": 792,
+        "code": "U+1F4BA",
+        "char": "💺",
+        "desc": "seat",
+        "filename": "seat.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/seat.png",
+        "paligemma_label": "chair"
+    },
+    {
+        "no": 793,
+        "code": "U+1F681",
+        "char": "🚁",
+        "desc": "helicopter",
+        "filename": "helicopter.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/helicopter.png",
+        "paligemma_label": "helicopter"
+    },
+    {
+        "no": 795,
+        "code": "U+1F6A0",
+        "char": "🚠",
+        "desc": "mountain cableway",
+        "filename": "mountain cableway.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/mountain cableway.png",
+        "paligemma_label": "transport"
+    },
+    {
+        "no": 796,
+        "code": "U+1F6A1",
+        "char": "🚡",
+        "desc": "aerial tramway",
+        "filename": "aerial tramway.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/aerial tramway.png",
+        "paligemma_label": "amusement park"
+    },
+    {
+        "no": 797,
+        "code": "U+1F6F0",
+        "char": "🛰",
+        "desc": "satellite",
+        "filename": "satellite.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/satellite.png",
+        "paligemma_label": "satellite"
+    },
+    {
+        "no": 798,
+        "code": "U+1F680",
+        "char": "🚀",
+        "desc": "rocket",
+        "filename": "rocket.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/rocket.png",
+        "paligemma_label": "rocket"
+    },
+    {
+        "no": 807,
+        "code": "U+23F2",
+        "char": "⏲",
+        "desc": "timer clock",
+        "filename": "timer clock.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/timer clock.png",
+        "paligemma_label": "timer"
+    },
+    {
+        "no": 845,
+        "code": "U+1F321",
+        "char": "🌡",
+        "desc": "thermometer",
+        "filename": "thermometer.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/thermometer.png",
+        "paligemma_label": "thermometer"
+    },
+    {
+        "no": 859,
+        "code": "U+1F328",
+        "char": "🌨",
+        "desc": "cloud with snow",
+        "filename": "cloud with snow.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/cloud with snow.png",
+        "paligemma_label": "snow"
+    },
+    {
+        "no": 861,
+        "code": "U+1F32A",
+        "char": "🌪",
+        "desc": "tornado",
+        "filename": "tornado.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/tornado.png",
+        "paligemma_label": "tornado"
+    },
+    {
+        "no": 864,
+        "code": "U+1F300",
+        "char": "🌀",
+        "desc": "cyclone",
+        "filename": "cyclone.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/cyclone.png",
+        "paligemma_label": "spiral"
+    },
+    {
+        "no": 865,
+        "code": "U+1F308",
+        "char": "🌈",
+        "desc": "rainbow",
+        "filename": "rainbow.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/rainbow.png",
+        "paligemma_label": "rainbow"
+    },
+    {
+        "no": 871,
+        "code": "U+2744",
+        "char": "❄",
+        "desc": "snowflake",
+        "filename": "snowflake.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/snowflake.png",
+        "paligemma_label": "snowflake"
+    },
+    {
+        "no": 874,
+        "code": "U+2604",
+        "char": "☄",
+        "desc": "comet",
+        "filename": "comet.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/comet.png",
+        "paligemma_label": "meteor"
+    },
+    {
+        "no": 875,
+        "code": "U+1F525",
+        "char": "🔥",
+        "desc": "fire",
+        "filename": "fire.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/fire.png",
+        "paligemma_label": "fire"
+    },
+    {
+        "no": 877,
+        "code": "U+1F30A",
+        "char": "🌊",
+        "desc": "water wave",
+        "filename": "water wave.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/water wave.png",
+        "paligemma_label": "wave"
+    },
+    {
+        "no": 878,
+        "code": "U+1F383",
+        "char": "🎃",
+        "desc": "jack-o-lantern",
+        "filename": "jack-o-lantern.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/jack-o-lantern.png",
+        "paligemma_label": "pumpkin"
+    },
+    {
+        "no": 879,
+        "code": "U+1F384",
+        "char": "🎄",
+        "desc": "Christmas tree",
+        "filename": "Christmas tree.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/Christmas tree.png",
+        "paligemma_label": "christmas tree"
+    },
+    {
+        "no": 884,
+        "code": "U+1F388",
+        "char": "🎈",
+        "desc": "balloon",
+        "filename": "balloon.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/balloon.png",
+        "paligemma_label": "balloon"
+    },
+    {
+        "no": 885,
+        "code": "U+1F389",
+        "char": "🎉",
+        "desc": "party popper",
+        "filename": "party popper.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/party popper.png",
+        "paligemma_label": "party"
+    },
+    {
+        "no": 887,
+        "code": "U+1F38B",
+        "char": "🎋",
+        "desc": "tanabata tree",
+        "filename": "tanabata tree.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/tanabata tree.png",
+        "paligemma_label": "bamboo"
+    },
+    {
+        "no": 889,
+        "code": "U+1F38E",
+        "char": "🎎",
+        "desc": "Japanese dolls",
+        "filename": "Japanese dolls.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/Japanese dolls.png",
+        "paligemma_label": "dolls"
+    },
+    {
+        "no": 890,
+        "code": "U+1F38F",
+        "char": "🎏",
+        "desc": "carp streamer",
+        "filename": "carp streamer.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/carp streamer.png",
+        "paligemma_label": "festival"
+    },
+    {
+        "no": 895,
+        "code": "U+1F381",
+        "char": "🎁",
+        "desc": "wrapped gift",
+        "filename": "wrapped gift.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/wrapped gift.png",
+        "paligemma_label": "gift"
+    },
+    {
+        "no": 896,
+        "code": "U+1F397",
+        "char": "🎗",
+        "desc": "reminder ribbon",
+        "filename": "reminder ribbon.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/reminder ribbon.png",
+        "paligemma_label": "yellow ribbon"
+    },
+    {
+        "no": 900,
+        "code": "U+1F3C6",
+        "char": "🏆",
+        "desc": "trophy",
+        "filename": "trophy.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/trophy.png",
+        "paligemma_label": "trophy"
+    },
+    {
+        "no": 901,
+        "code": "U+1F3C5",
+        "char": "🏅",
+        "desc": "sports medal",
+        "filename": "sports medal.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/sports medal.png",
+        "paligemma_label": "medal"
+    },
+    {
+        "no": 902,
+        "code": "U+1F947",
+        "char": "🥇",
+        "desc": "1st place medal",
+        "filename": "1st place medal.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/1st place medal.png",
+        "paligemma_label": "gold medal"
+    },
+    {
+        "no": 903,
+        "code": "U+1F948",
+        "char": "🥈",
+        "desc": "2nd place medal",
+        "filename": "2nd place medal.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/2nd place medal.png",
+        "paligemma_label": "competition"
+    },
+    {
+        "no": 904,
+        "code": "U+1F949",
+        "char": "🥉",
+        "desc": "3rd place medal",
+        "filename": "3rd place medal.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/3rd place medal.png",
+        "paligemma_label": "bronze medal"
+    },
+    {
+        "no": 905,
+        "code": "U+26BD",
+        "char": "⚽",
+        "desc": "soccer ball",
+        "filename": "soccer ball.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/soccer ball.png",
+        "paligemma_label": "soccer ball"
+    },
+    {
+        "no": 906,
+        "code": "U+26BE",
+        "char": "⚾",
+        "desc": "baseball",
+        "filename": "baseball.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/baseball.png",
+        "paligemma_label": "baseball"
+    },
+    {
+        "no": 909,
+        "code": "U+1F3D0",
+        "char": "🏐",
+        "desc": "volleyball",
+        "filename": "volleyball.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/volleyball.png",
+        "paligemma_label": "volleyball"
+    },
+    {
+        "no": 910,
+        "code": "U+1F3C8",
+        "char": "🏈",
+        "desc": "american football",
+        "filename": "american football.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/american football.png",
+        "paligemma_label": "football"
+    },
+    {
+        "no": 913,
+        "code": "U+1F94F",
+        "char": "🥏",
+        "desc": "flying disc",
+        "filename": "flying disc.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/flying disc.png",
+        "paligemma_label": "frisbee"
+    },
+    {
+        "no": 915,
+        "code": "U+1F3CF",
+        "char": "🏏",
+        "desc": "cricket game",
+        "filename": "cricket game.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/cricket game.png",
+        "paligemma_label": "cricket ball"
+    },
+    {
+        "no": 916,
+        "code": "U+1F3D1",
+        "char": "🏑",
+        "desc": "field hockey",
+        "filename": "field hockey.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/field hockey.png",
+        "paligemma_label": "hockey stick"
+    },
+    {
+        "no": 919,
+        "code": "U+1F3D3",
+        "char": "🏓",
+        "desc": "ping pong",
+        "filename": "ping pong.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/ping pong.png",
+        "paligemma_label": "tennis"
+    },
+    {
+        "no": 920,
+        "code": "U+1F3F8",
+        "char": "🏸",
+        "desc": "badminton",
+        "filename": "badminton.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/badminton.png",
+        "paligemma_label": "badminton"
+    },
+    {
+        "no": 922,
+        "code": "U+1F94B",
+        "char": "🥋",
+        "desc": "martial arts uniform",
+        "filename": "martial arts uniform.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/martial arts uniform.png",
+        "paligemma_label": "kimono"
+    },
+    {
+        "no": 923,
+        "code": "U+1F945",
+        "char": "🥅",
+        "desc": "goal net",
+        "filename": "goal net.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/goal net.png",
+        "paligemma_label": "goal"
+    },
+    {
+        "no": 925,
+        "code": "U+26F8",
+        "char": "⛸",
+        "desc": "ice skate",
+        "filename": "ice skate.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/ice skate.png",
+        "paligemma_label": "skate"
+    },
+    {
+        "no": 927,
+        "code": "U+1F3BD",
+        "char": "🎽",
+        "desc": "running shirt",
+        "filename": "running shirt.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/running shirt.png",
+        "paligemma_label": "top"
+    },
+    {
+        "no": 928,
+        "code": "U+1F3BF",
+        "char": "🎿",
+        "desc": "skis",
+        "filename": "skis.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/skis.png",
+        "paligemma_label": "boots"
+    },
+    {
+        "no": 929,
+        "code": "U+1F6F7",
+        "char": "🛷",
+        "desc": "sled",
+        "filename": "sled.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/sled.png",
+        "paligemma_label": "sled"
+    },
+    {
+        "no": 930,
+        "code": "U+1F94C",
+        "char": "🥌",
+        "desc": "curling stone",
+        "filename": "curling stone.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/curling stone.png",
+        "paligemma_label": "rock"
+    },
+    {
+        "no": 931,
+        "code": "U+1F3AF",
+        "char": "🎯",
+        "desc": "direct hit",
+        "filename": "direct hit.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/direct hit.png",
+        "paligemma_label": "target"
+    },
+    {
+        "no": 935,
+        "code": "U+1F3AE",
+        "char": "🎮",
+        "desc": "video game",
+        "filename": "video game.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/video game.png",
+        "paligemma_label": "controller"
+    },
+    {
+        "no": 936,
+        "code": "U+1F579",
+        "char": "🕹",
+        "desc": "joystick",
+        "filename": "joystick.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/joystick.png",
+        "paligemma_label": "joystick"
+    },
+    {
+        "no": 938,
+        "code": "U+1F3B2",
+        "char": "🎲",
+        "desc": "game die",
+        "filename": "game die.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/game die.png",
+        "paligemma_label": "dice"
+    },
+    {
+        "no": 939,
+        "code": "U+1F9E9",
+        "char": "🧩",
+        "desc": "puzzle piece",
+        "filename": "puzzle piece.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/puzzle piece.png",
+        "paligemma_label": "puzzle"
+    },
+    {
+        "no": 940,
+        "code": "U+1F9F8",
+        "char": "🧸",
+        "desc": "teddy bear",
+        "filename": "teddy bear.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/teddy bear.png",
+        "paligemma_label": "teddy bear"
+    },
+    {
+        "no": 941,
+        "code": "U+2660",
+        "char": "♠",
+        "desc": "spade suit",
+        "filename": "spade suit.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/spade suit.png",
+        "paligemma_label": "suit"
+    },
+    {
+        "no": 943,
+        "code": "U+2666",
+        "char": "♦",
+        "desc": "diamond suit",
+        "filename": "diamond suit.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/diamond suit.png",
+        "paligemma_label": "shape"
+    },
+    {
+        "no": 944,
+        "code": "U+2663",
+        "char": "♣",
+        "desc": "club suit",
+        "filename": "club suit.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/club suit.png",
+        "paligemma_label": "club"
+    },
+    {
+        "no": 945,
+        "code": "U+265F",
+        "char": "♟",
+        "desc": "chess pawn",
+        "filename": "chess pawn.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/chess pawn.png",
+        "paligemma_label": "chess piece"
+    },
+    {
+        "no": 946,
+        "code": "U+1F0CF",
+        "char": "🃏",
+        "desc": "joker",
+        "filename": "joker.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/joker.png",
+        "paligemma_label": "card game"
+    },
+    {
+        "no": 951,
+        "code": "U+1F3A8",
+        "char": "🎨",
+        "desc": "artist palette",
+        "filename": "artist palette.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/artist palette.png",
+        "paligemma_label": "palette"
+    },
+    {
+        "no": 952,
+        "code": "U+1F9F5",
+        "char": "🧵",
+        "desc": "thread",
+        "filename": "thread.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/thread.png",
+        "paligemma_label": "rope"
+    },
+    {
+        "no": 956,
+        "code": "U+1F97D",
+        "char": "🥽",
+        "desc": "goggles",
+        "filename": "goggles.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/goggles.png",
+        "paligemma_label": "goggles"
+    },
+    {
+        "no": 957,
+        "code": "U+1F97C",
+        "char": "🥼",
+        "desc": "lab coat",
+        "filename": "lab coat.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/lab coat.png",
+        "paligemma_label": "lab coat"
+    },
+    {
+        "no": 958,
+        "code": "U+1F454",
+        "char": "👔",
+        "desc": "necktie",
+        "filename": "necktie.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/necktie.png",
+        "paligemma_label": "tie"
+    },
+    {
+        "no": 960,
+        "code": "U+1F456",
+        "char": "👖",
+        "desc": "jeans",
+        "filename": "jeans.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/jeans.png",
+        "paligemma_label": "jeans"
+    },
+    {
+        "no": 961,
+        "code": "U+1F9E3",
+        "char": "🧣",
+        "desc": "scarf",
+        "filename": "scarf.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/scarf.png",
+        "paligemma_label": "scarf"
+    },
+    {
+        "no": 963,
+        "code": "U+1F9E5",
+        "char": "🧥",
+        "desc": "coat",
+        "filename": "coat.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/coat.png",
+        "paligemma_label": "coat"
+    },
+    {
+        "no": 964,
+        "code": "U+1F9E6",
+        "char": "🧦",
+        "desc": "socks",
+        "filename": "socks.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/socks.png",
+        "paligemma_label": "sock"
+    },
+    {
+        "no": 966,
+        "code": "U+1F458",
+        "char": "👘",
+        "desc": "kimono",
+        "filename": "kimono.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/kimono.png",
+        "paligemma_label": "outfit"
+    },
+    {
+        "no": 967,
+        "code": "U+1F459",
+        "char": "👙",
+        "desc": "bikini",
+        "filename": "bikini.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/bikini.png",
+        "paligemma_label": "bikini"
+    },
+    {
+        "no": 969,
+        "code": "U+1F45B",
+        "char": "👛",
+        "desc": "purse",
+        "filename": "purse.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/purse.png",
+        "paligemma_label": "wallet"
+    },
+    {
+        "no": 972,
+        "code": "U+1F6CD",
+        "char": "🛍",
+        "desc": "shopping bags",
+        "filename": "shopping bags.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/shopping bags.png",
+        "paligemma_label": "shopping bag"
+    },
+    {
+        "no": 973,
+        "code": "U+1F392",
+        "char": "🎒",
+        "desc": "backpack",
+        "filename": "backpack.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/backpack.png",
+        "paligemma_label": "backpack"
+    },
+    {
+        "no": 980,
+        "code": "U+1F462",
+        "char": "👢",
+        "desc": "woman’s boot",
+        "filename": "woman’s boot.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/woman’s boot.png",
+        "paligemma_label": "boot"
+    },
+    {
+        "no": 984,
+        "code": "U+1F393",
+        "char": "🎓",
+        "desc": "graduation cap",
+        "filename": "graduation cap.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/graduation cap.png",
+        "paligemma_label": "graduation cap"
+    },
+    {
+        "no": 985,
+        "code": "U+1F9E2",
+        "char": "🧢",
+        "desc": "billed cap",
+        "filename": "billed cap.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/billed cap.png",
+        "paligemma_label": "cap"
+    },
+    {
+        "no": 986,
+        "code": "U+26D1",
+        "char": "⛑",
+        "desc": "rescue worker’s helmet",
+        "filename": "rescue worker’s helmet.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/rescue worker’s helmet.png",
+        "paligemma_label": "helmet"
+    },
+    {
+        "no": 987,
+        "code": "U+1F4FF",
+        "char": "📿",
+        "desc": "prayer beads",
+        "filename": "prayer beads.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/prayer beads.png",
+        "paligemma_label": "beads"
+    },
+    {
+        "no": 989,
+        "code": "U+1F48D",
+        "char": "💍",
+        "desc": "ring",
+        "filename": "ring.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/ring.png",
+        "paligemma_label": "ring"
+    },
+    {
+        "no": 996,
+        "code": "U+1F4E3",
+        "char": "📣",
+        "desc": "megaphone",
+        "filename": "megaphone.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/megaphone.png",
+        "paligemma_label": "megaphone"
+    },
+    {
+        "no": 997,
+        "code": "U+1F4EF",
+        "char": "📯",
+        "desc": "postal horn",
+        "filename": "postal horn.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/postal horn.png",
+        "paligemma_label": "horn"
+    },
+    {
+        "no": 1000,
+        "code": "U+1F3BC",
+        "char": "🎼",
+        "desc": "musical score",
+        "filename": "musical score.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/musical score.png",
+        "paligemma_label": "musical note"
+    },
+    {
+        "no": 1001,
+        "code": "U+1F3B5",
+        "char": "🎵",
+        "desc": "musical note",
+        "filename": "musical note.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/musical note.png",
+        "paligemma_label": "note"
+    },
+    {
+        "no": 1002,
+        "code": "U+1F3B6",
+        "char": "🎶",
+        "desc": "musical notes",
+        "filename": "musical notes.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/musical notes.png",
+        "paligemma_label": "notes"
+    },
+    {
+        "no": 1005,
+        "code": "U+1F39B",
+        "char": "🎛",
+        "desc": "control knobs",
+        "filename": "control knobs.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/control knobs.png",
+        "paligemma_label": "buttons"
+    },
+    {
+        "no": 1007,
+        "code": "U+1F3A7",
+        "char": "🎧",
+        "desc": "headphone",
+        "filename": "headphone.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/headphone.png",
+        "paligemma_label": "headphones"
+    },
+    {
+        "no": 1008,
+        "code": "U+1F4FB",
+        "char": "📻",
+        "desc": "radio",
+        "filename": "radio.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/radio.png",
+        "paligemma_label": "radio"
+    },
+    {
+        "no": 1009,
+        "code": "U+1F3B7",
+        "char": "🎷",
+        "desc": "saxophone",
+        "filename": "saxophone.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/saxophone.png",
+        "paligemma_label": "saxophone"
+    },
+    {
+        "no": 1010,
+        "code": "U+1F3B8",
+        "char": "🎸",
+        "desc": "guitar",
+        "filename": "guitar.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/guitar.png",
+        "paligemma_label": "guitar"
+    },
+    {
+        "no": 1011,
+        "code": "U+1F3B9",
+        "char": "🎹",
+        "desc": "musical keyboard",
+        "filename": "musical keyboard.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/musical keyboard.png",
+        "paligemma_label": "piano"
+    },
+    {
+        "no": 1012,
+        "code": "U+1F3BA",
+        "char": "🎺",
+        "desc": "trumpet",
+        "filename": "trumpet.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/trumpet.png",
+        "paligemma_label": "trumpet"
+    },
+    {
+        "no": 1013,
+        "code": "U+1F3BB",
+        "char": "🎻",
+        "desc": "violin",
+        "filename": "violin.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/violin.png",
+        "paligemma_label": "violin"
+    },
+    {
+        "no": 1014,
+        "code": "U+1F941",
+        "char": "🥁",
+        "desc": "drum",
+        "filename": "drum.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/drum.png",
+        "paligemma_label": "drum"
+    },
+    {
+        "no": 1021,
+        "code": "U+1F50B",
+        "char": "🔋",
+        "desc": "battery",
+        "filename": "battery.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/battery.png",
+        "paligemma_label": "battery"
+    },
+    {
+        "no": 1022,
+        "code": "U+1F50C",
+        "char": "🔌",
+        "desc": "electric plug",
+        "filename": "electric plug.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/electric plug.png",
+        "paligemma_label": "wire"
+    },
+    {
+        "no": 1023,
+        "code": "U+1F4BB",
+        "char": "💻",
+        "desc": "laptop computer",
+        "filename": "laptop computer.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/laptop computer.png",
+        "paligemma_label": "laptop"
+    },
+    {
+        "no": 1026,
+        "code": "U+2328",
+        "char": "⌨",
+        "desc": "keyboard",
+        "filename": "keyboard.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/keyboard.png",
+        "paligemma_label": "keyboard"
+    },
+    {
+        "no": 1035,
+        "code": "U+1F39E",
+        "char": "🎞",
+        "desc": "film frames",
+        "filename": "film frames.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/film frames.png",
+        "paligemma_label": "film"
+    },
+    {
+        "no": 1036,
+        "code": "U+1F4FD",
+        "char": "📽",
+        "desc": "film projector",
+        "filename": "film projector.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/film projector.png",
+        "paligemma_label": "projector"
+    },
+    {
+        "no": 1038,
+        "code": "U+1F4FA",
+        "char": "📺",
+        "desc": "television",
+        "filename": "television.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/television.png",
+        "paligemma_label": "tv"
+    },
+    {
+        "no": 1042,
+        "code": "U+1F4FC",
+        "char": "📼",
+        "desc": "videocassette",
+        "filename": "videocassette.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/videocassette.png",
+        "paligemma_label": "invention"
+    },
+    {
+        "no": 1045,
+        "code": "U+1F56F",
+        "char": "🕯",
+        "desc": "candle",
+        "filename": "candle.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/candle.png",
+        "paligemma_label": "candle"
+    },
+    {
+        "no": 1046,
+        "code": "U+1F4A1",
+        "char": "💡",
+        "desc": "light bulb",
+        "filename": "light bulb.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/light bulb.png",
+        "paligemma_label": "light bulb"
+    },
+    {
+        "no": 1047,
+        "code": "U+1F526",
+        "char": "🔦",
+        "desc": "flashlight",
+        "filename": "flashlight.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/flashlight.png",
+        "paligemma_label": "flashlight"
+    },
+    {
+        "no": 1048,
+        "code": "U+1F3EE",
+        "char": "🏮",
+        "desc": "red paper lantern",
+        "filename": "red paper lantern.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/red paper lantern.png",
+        "paligemma_label": "lantern"
+    },
+    {
+        "no": 1059,
+        "code": "U+1F4DC",
+        "char": "📜",
+        "desc": "scroll",
+        "filename": "scroll.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/scroll.png",
+        "paligemma_label": "scroll"
+    },
+    {
+        "no": 1065,
+        "code": "U+1F3F7",
+        "char": "🏷",
+        "desc": "label",
+        "filename": "label.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/label.png",
+        "paligemma_label": "tag"
+    },
+    {
+        "no": 1073,
+        "code": "U+1F9FE",
+        "char": "🧾",
+        "desc": "receipt",
+        "filename": "receipt.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/receipt.png",
+        "paligemma_label": "receipt"
+    },
+    {
+        "no": 1094,
+        "code": "U+1F58C",
+        "char": "🖌",
+        "desc": "paintbrush",
+        "filename": "paintbrush.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/paintbrush.png",
+        "paligemma_label": "brush"
+    },
+    {
+        "no": 1095,
+        "code": "U+1F58D",
+        "char": "🖍",
+        "desc": "crayon",
+        "filename": "crayon.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/crayon.png",
+        "paligemma_label": "crayon"
+    },
+    {
+        "no": 1097,
+        "code": "U+1F4BC",
+        "char": "💼",
+        "desc": "briefcase",
+        "filename": "briefcase.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/briefcase.png",
+        "paligemma_label": "briefcase"
+    },
+    {
+        "no": 1108,
+        "code": "U+1F4CA",
+        "char": "📊",
+        "desc": "bar chart",
+        "filename": "bar chart.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/bar chart.png",
+        "paligemma_label": "chart"
+    },
+    {
+        "no": 1116,
+        "code": "U+2702",
+        "char": "✂",
+        "desc": "scissors",
+        "filename": "scissors.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/scissors.png",
+        "paligemma_label": "scissors"
+    },
+    {
+        "no": 1118,
+        "code": "U+1F5C4",
+        "char": "🗄",
+        "desc": "file cabinet",
+        "filename": "file cabinet.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/file cabinet.png",
+        "paligemma_label": "drawer"
+    },
+    {
+        "no": 1119,
+        "code": "U+1F5D1",
+        "char": "🗑",
+        "desc": "wastebasket",
+        "filename": "wastebasket.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/wastebasket.png",
+        "paligemma_label": "trash can"
+    },
+    {
+        "no": 1123,
+        "code": "U+1F510",
+        "char": "🔐",
+        "desc": "locked with key",
+        "filename": "locked with key.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/locked with key.png",
+        "paligemma_label": "lock and key"
+    },
+    {
+        "no": 1132,
+        "code": "U+1F52B",
+        "char": "🔫",
+        "desc": "pistol",
+        "filename": "pistol.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/pistol.png",
+        "paligemma_label": "water gun"
+    },
+    {
+        "no": 1134,
+        "code": "U+1F6E1",
+        "char": "🛡",
+        "desc": "shield",
+        "filename": "shield.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/shield.png",
+        "paligemma_label": "shield"
+    },
+    {
+        "no": 1136,
+        "code": "U+1F529",
+        "char": "🔩",
+        "desc": "nut and bolt",
+        "filename": "nut and bolt.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/nut and bolt.png",
+        "paligemma_label": "nut and bolt"
+    },
+    {
+        "no": 1137,
+        "code": "U+2699",
+        "char": "⚙",
+        "desc": "gear",
+        "filename": "gear.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/gear.png",
+        "paligemma_label": "gear"
+    },
+    {
+        "no": 1139,
+        "code": "U+2696",
+        "char": "⚖",
+        "desc": "balance scale",
+        "filename": "balance scale.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/balance scale.png",
+        "paligemma_label": "scale"
+    },
+    {
+        "no": 1142,
+        "code": "U+1F9F0",
+        "char": "🧰",
+        "desc": "toolbox",
+        "filename": "toolbox.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/toolbox.png",
+        "paligemma_label": "toolbox"
+    },
+    {
+        "no": 1143,
+        "code": "U+1F9F2",
+        "char": "🧲",
+        "desc": "magnet",
+        "filename": "magnet.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/magnet.png",
+        "paligemma_label": "magnet"
+    },
+    {
+        "no": 1145,
+        "code": "U+1F9EA",
+        "char": "🧪",
+        "desc": "test tube",
+        "filename": "test tube.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/test tube.png",
+        "paligemma_label": "test tube"
+    },
+    {
+        "no": 1146,
+        "code": "U+1F9EB",
+        "char": "🧫",
+        "desc": "petri dish",
+        "filename": "petri dish.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/petri dish.png",
+        "paligemma_label": "dish"
+    },
+    {
+        "no": 1147,
+        "code": "U+1F9EC",
+        "char": "🧬",
+        "desc": "dna",
+        "filename": "dna.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/dna.png",
+        "paligemma_label": "picture"
+    },
+    {
+        "no": 1148,
+        "code": "U+1F52C",
+        "char": "🔬",
+        "desc": "microscope",
+        "filename": "microscope.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/microscope.png",
+        "paligemma_label": "microscope"
+    },
+    {
+        "no": 1149,
+        "code": "U+1F52D",
+        "char": "🔭",
+        "desc": "telescope",
+        "filename": "telescope.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/telescope.png",
+        "paligemma_label": "telescope"
+    },
+    {
+        "no": 1150,
+        "code": "U+1F4E1",
+        "char": "📡",
+        "desc": "satellite antenna",
+        "filename": "satellite antenna.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/satellite antenna.png",
+        "paligemma_label": "antenna"
+    },
+    {
+        "no": 1151,
+        "code": "U+1F489",
+        "char": "💉",
+        "desc": "syringe",
+        "filename": "syringe.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/syringe.png",
+        "paligemma_label": "syringe"
+    },
+    {
+        "no": 1152,
+        "code": "U+1F48A",
+        "char": "💊",
+        "desc": "pill",
+        "filename": "pill.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/pill.png",
+        "paligemma_label": "pill"
+    },
+    {
+        "no": 1153,
+        "code": "U+1F6AA",
+        "char": "🚪",
+        "desc": "door",
+        "filename": "door.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/door.png",
+        "paligemma_label": "door"
+    },
+    {
+        "no": 1155,
+        "code": "U+1F6CB",
+        "char": "🛋",
+        "desc": "couch and lamp",
+        "filename": "couch and lamp.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/couch and lamp.png",
+        "paligemma_label": "couch"
+    },
+    {
+        "no": 1156,
+        "code": "U+1F6BD",
+        "char": "🚽",
+        "desc": "toilet",
+        "filename": "toilet.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/toilet.png",
+        "paligemma_label": "toilet"
+    },
+    {
+        "no": 1157,
+        "code": "U+1F6BF",
+        "char": "🚿",
+        "desc": "shower",
+        "filename": "shower.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/shower.png",
+        "paligemma_label": "shower head"
+    },
+    {
+        "no": 1161,
+        "code": "U+1F9F9",
+        "char": "🧹",
+        "desc": "broom",
+        "filename": "broom.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/broom.png",
+        "paligemma_label": "broom"
+    },
+    {
+        "no": 1162,
+        "code": "U+1F9FA",
+        "char": "🧺",
+        "desc": "basket",
+        "filename": "basket.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/basket.png",
+        "paligemma_label": "basket"
+    },
+    {
+        "no": 1163,
+        "code": "U+1F9FB",
+        "char": "🧻",
+        "desc": "roll of paper",
+        "filename": "roll of paper.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/roll of paper.png",
+        "paligemma_label": "toilet paper"
+    },
+    {
+        "no": 1164,
+        "code": "U+1F9FC",
+        "char": "🧼",
+        "desc": "soap",
+        "filename": "soap.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/soap.png",
+        "paligemma_label": "soap"
+    },
+    {
+        "no": 1165,
+        "code": "U+1F9FD",
+        "char": "🧽",
+        "desc": "sponge",
+        "filename": "sponge.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/sponge.png",
+        "paligemma_label": "sponge"
+    },
+    {
+        "no": 1166,
+        "code": "U+1F9EF",
+        "char": "🧯",
+        "desc": "fire extinguisher",
+        "filename": "fire extinguisher.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/fire extinguisher.png",
+        "paligemma_label": "fire extinguisher"
+    },
+    {
+        "no": 1167,
+        "code": "U+1F6D2",
+        "char": "🛒",
+        "desc": "shopping cart",
+        "filename": "shopping cart.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/shopping cart.png",
+        "paligemma_label": "cart"
+    },
+    {
+        "no": 1168,
+        "code": "U+1F6AC",
+        "char": "🚬",
+        "desc": "cigarette",
+        "filename": "cigarette.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/cigarette.png",
+        "paligemma_label": "cigarette"
+    },
+    {
+        "no": 1169,
+        "code": "U+26B0",
+        "char": "⚰",
+        "desc": "coffin",
+        "filename": "coffin.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/coffin.png",
+        "paligemma_label": "coffin"
+    },
+    {
+        "no": 1170,
+        "code": "U+26B1",
+        "char": "⚱",
+        "desc": "funeral urn",
+        "filename": "funeral urn.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/funeral urn.png",
+        "paligemma_label": "urn"
+    },
+    {
+        "no": 1185,
+        "code": "U+26A0",
+        "char": "⚠",
+        "desc": "warning",
+        "filename": "warning.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/warning.png",
+        "paligemma_label": "danger"
+    },
+    {
+        "no": 1229,
+        "code": "U+1F54E",
+        "char": "🕎",
+        "desc": "menorah",
+        "filename": "menorah.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/menorah.png",
+        "paligemma_label": "menorah"
+    },
+    {
+        "no": 1234,
+        "code": "U+264B",
+        "char": "♋",
+        "desc": "Cancer",
+        "filename": "Cancer.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/Cancer.png",
+        "paligemma_label": "cancer"
+    },
+    {
+        "no": 1277,
+        "code": "U+2B55",
+        "char": "⭕",
+        "desc": "hollow red circle",
+        "filename": "hollow red circle.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/hollow red circle.png",
+        "paligemma_label": "circle"
+    },
+    {
+        "no": 1285,
+        "code": "U+2796",
+        "char": "➖",
+        "desc": "minus sign",
+        "filename": "minus sign.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/minus sign.png",
+        "paligemma_label": "rectangle"
+    },
+    {
+        "no": 1299,
+        "code": "U+3030",
+        "char": "〰",
+        "desc": "wavy dash",
+        "filename": "wavy dash.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/wavy dash.png",
+        "paligemma_label": "line"
+    },
+    {
+        "no": 1302,
+        "code": "U+2122",
+        "char": "™",
+        "desc": "trade mark",
+        "filename": "trade mark.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/trade mark.png",
+        "paligemma_label": "legal"
+    },
+    {
+        "no": 1363,
+        "code": "U+25FD",
+        "char": "◽",
+        "desc": "white medium-small square",
+        "filename": "white medium-small square.png",
+        "full_path": "/mnt/chuheng_data/dataset_emoji/white medium-small square.png",
+        "paligemma_label": "cube"
+    }
+]
